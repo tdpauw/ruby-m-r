@@ -1,28 +1,6 @@
-# Simplecqrs
+# ruby-m-r
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/simplecqrs`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'simplecqrs'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install simplecqrs
-
-## Usage
-
-TODO: Write usage instructions here
+Greg Young's simple CQRS example written using Ruby https://github.com/gregoryyoung/m-r.
 
 ## Development
 
@@ -32,10 +10,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/simplecqrs.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tdpauw/ruby-m-r.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
