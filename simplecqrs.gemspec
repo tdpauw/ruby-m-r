@@ -5,7 +5,7 @@ require 'simplecqrs/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "simplecqrs"
-  spec.version       = Simplecqrs::VERSION
+  spec.version       = SimpleCQRS::VERSION
   spec.authors       = ["Thierry de Pauw"]
   spec.email         = ["thierry@thinkinglabs.io"]
 

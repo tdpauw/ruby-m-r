@@ -1,11 +1,7 @@
 require 'spec_helper'
 
-describe Simplecqrs do
+describe SimpleCQRS do
   it 'has a version number' do
-    expect(Simplecqrs::VERSION).not_to be nil
-  end
-
-  it 'does something useful' do
-    expect(false).to eq(true)
+    expect(SimpleCQRS::VERSION).not_to be nil
   end
 end

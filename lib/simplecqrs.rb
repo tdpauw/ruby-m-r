@@ -1,5 +1,5 @@
 require "simplecqrs/version"
 
-module Simplecqrs
+module SimpleCQRS 
   # Your code goes here...
 end
