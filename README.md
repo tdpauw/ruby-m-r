@@ -1,4 +1,4 @@
-# ruby-m-r
+# ruby-m-r [![Build Status](https://travis-ci.org/tdpauw/ruby-m-r.svg?branch=master)]
 
 Greg Young's simple CQRS example written using Ruby https://github.com/gregoryyoung/m-r.
 
